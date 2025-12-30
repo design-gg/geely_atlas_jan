@@ -379,13 +379,13 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.instance = new lib.img3();
-	this.instance.setTransform(0,0,0.9085,0.9085);
+	this.instance.setTransform(78,47,0.7917,0.7917);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
-}).prototype = getMCSymbolPrototype(lib.Symbol10, new cjs.Rectangle(0,0,545.1,585.1), null);
+}).prototype = getMCSymbolPrototype(lib.Symbol10, new cjs.Rectangle(78,47,475,509.9), null);
 
 
 (lib.Symbol8 = function(mode,startPosition,loop,reversed) {
@@ -4527,14 +4527,14 @@ if (reversed == null) { reversed = false; }
 
 	// img3_jpg
 	this.instance_1 = new lib.Symbol10();
-	this.instance_1.setTransform(262.6,292.5,0.9414,0.9414,0,0,0,272.6,292.5);
+	this.instance_1.setTransform(257.6,292.5,0.9414,0.9414,0,0,0,272.6,292.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({regX:272.5,regY:292.4,scaleX:1.0379,scaleY:1.0379,x:272.55},89).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-10.2,-11,565.7,607.3);
+p.nominalBounds = new cjs.Rectangle(70.7,37.8,493.00000000000006,529.2);
 
 
 (lib.Symbol5 = function(mode,startPosition,loop,reversed) {
@@ -4735,7 +4735,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(-11,195.2,454,350.90000000000003);
+p.nominalBounds = new cjs.Rectangle(-11,204.2,454,341.90000000000003);
 // library properties:
 lib.properties = {
 	id: '4D89C38A309041739E5C624C37FFE622',
